@@ -1,3 +1,2 @@
 # artificial-intelligence
-
-https://elsiesmile.github.io/artificial-Intelligence/
+# https://elsiesmile.github.io/artificial-intelligence/
